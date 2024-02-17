@@ -1,8 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/AnhtuanUit/json-server-react-quiz/questions](https://my-json-server.typicode.com/AnhtuanUit/json-server-react-quiz/questions)
-
-https://github.com/AnhtuanUit/json-server-react-quiz
+[https://my-json-server.typicode.com/AnhtuanUit/json-server-react-quiz](https://my-json-server.typicode.com/AnhtuanUit/json-server-react-quiz)
 
 ## Use your own data
 
